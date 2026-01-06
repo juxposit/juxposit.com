@@ -1,2 +1,1 @@
-# juxposit.com
-juxposit.com
+
