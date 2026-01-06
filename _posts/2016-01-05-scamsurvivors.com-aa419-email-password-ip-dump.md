@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "scamsurvivors.com-aa419-email-password-ip-dump"
 ---
 
 aa419 and most fraud focused forums retired tools such as mugu marauders which ddos'd target websites in favor of sensible options such as contacting the hosts. I'm not bound by the same logic. I've got personal and professional reasons to release such passwords and other vulnerabilities. I've had a long history of reporting zero days or vulnerabilities to organizations like Google and others. This project's reasons are discreet but if you find the dump useful - great.
